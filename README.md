@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ic4l
-- 👀 I’m interested in Coding and Trading
+- 👀 I’m interested in Coding and Stocks Trading
 - 🌱 I’m currently learning Laravel and How To financial analysing
 - 💞️ I’m looking to collaborate on making a project
 - 📫 How to reach me ic4love@gmail.com
